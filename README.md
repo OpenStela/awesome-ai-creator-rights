@@ -20,7 +20,7 @@
 
 Most copyright systems protect only what a human author contributed. What counts as enough human contribution — prompts, selection, editing, arrangement — is decided country by country.
 
-_Last verified: 2026-09-27._
+Last verified: 2026-09-27.
 
 ### United States
 
@@ -80,7 +80,7 @@ Copyright arises on creation and there is no registration. The IP Office has con
 
 A tool's terms decide what you may do with the output as between you and the company. They cannot make output copyrightable where the law says it is not (see the section above).
 
-_Last verified: 2026-09-27. Terms change often; check the date next to each entry against the current page._
+Last verified: 2026-09-27. Terms change often; check the date next to each entry against the current page.
 
 | Tool          | Who owns the output             | Free plan                                                | Paid plan                                              |
 | ------------- | ------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
@@ -124,7 +124,7 @@ _Last verified: 2026-09-27. Terms change often; check the date next to each entr
 
 If a dispute comes, the first question is often simply who had the work first. These methods record that a file existed at a certain time. None of them, on its own, proves who created it or who owns the rights.
 
-_Last verified: 2026-09-27._
+Last verified: 2026-09-27.
 
 | Method                            | Shows the file existed by a date        | Shows who made it                                            | Cost                                       | Checkable without the provider               |
 | --------------------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | -------------------------------------------- |
@@ -170,19 +170,137 @@ _Last verified: 2026-09-27._
 
 ## When someone copies your work
 
-<!-- section4 -->
+Last verified: 2026-09-27.
+
+Save evidence first: the copy can disappear once the other side notices. Then use the platform's own reporting channel; most follow the US DMCA procedure even outside the United States.
+
+### United States: DMCA takedown
+
+- [17 U.S.C. §512](https://www.law.cornell.edu/uscode/text/17/512) - The notice-and-takedown law. A notice to the platform's designated agent needs a signature, the work, the infringing material's location, contact details, a good-faith statement and a statement under penalty of perjury.
+- [Section 512 resources](https://www.copyright.gov/512/) - US Copyright Office summaries with sample notice and counter-notice templates.
+- [DMCA Designated Agent Directory](https://dmca.copyright.gov/osp/) - Free public search for where a platform receives takedown notices.
+- [Counter-notice, §512(g)](https://www.law.cornell.edu/uscode/text/17/512#g) - If your own work is taken down by mistake, a counter-notice gets it restored in 10 to 14 business days unless the claimant sues. Knowingly false notices or counter-notices create liability under [§512(f)](https://www.law.cornell.edu/uscode/text/17/512#f).
+
+### Platform reporting pages
+
+- [YouTube copyright removal](https://support.google.com/youtube/answer/2807622?hl=en) - Webform in YouTube Studio or by email. [Content ID](https://support.google.com/youtube/answer/1311402?hl=en) needs exclusive rights, so non-exclusively licensed music may not qualify.
+- [TikTok copyright policy](https://www.tiktok.com/legal/page/global/copyright-policy/en) - Report through the online form or in the app.
+- [X copyright policy](https://help.x.com/en/rules-and-policies/copyright-policy) - Complaints by the owner or an authorised representative, with a counter-notice route.
+- [Instagram and Threads copyright help](https://help.instagram.com/126382350847838) - Meta's report form, counter-notice guidance and repeat-infringer policy; [Facebook](https://www.facebook.com/help/1020633957973118) also offers Rights Manager matching.
+- [Spotify copyright policy](https://www.spotify.com/us/legal/copyright-policy/) - Online form or the designated copyright agent.
+- [SoundCloud copyright reports](https://help.soundcloud.com/hc/en-us/articles/4402637577243-How-do-I-report-content-on-SoundCloud-that-infringes-my-copyright) - Report form, the report button on each track, or email.
+- [DistroKid takedowns](https://support.distrokid.com/hc/en-us/articles/360056369674-DMCA-Takedowns-and-Counterclaims) - For music DistroKid distributed; check the ℗/© lines to find the distributor of other releases.
+- [Etsy IP policy](https://www.etsy.com/legal/ip/) - IP Reporting Portal for listings, shops and videos.
+- [Amazon Report Infringement](https://www.amazon.com/report/infringement) - Signed-in form for rights owners and their agents; [Brand Registry](https://sell.amazon.com/blog/brand-registry-requirements) adds enforcement tools but needs a registered or pending trademark.
+- [Civitai DMCA notice](https://civitai.com/content/dmca-notice) - Takedown form; its terms (§12) also accept notices by email or mail. [Suno](https://suno.com/terms) and [Udio](https://www.udio.com/terms-of-service) also list DMCA agents in their terms.
+
+### European Union
+
+- [Digital Services Act, Article 16](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2065) - Hosting services must accept electronic notices of illegal content, including copyright infringement, from anyone; Article 22 gives priority to "trusted flaggers", a status granted to organisations rather than individuals.
+
+### Taiwan
+
+- [Copyright Act, Chapter 6-1 (§90-4 to §90-12)](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0070017&flno=90-4) - Taiwan's notice-and-takedown for online services. After a counter-notice, the rights holder has 10 working days to show it has sued, or the content is restored; the notice contents are set by the [implementing regulations](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070042).
+- [TIPO copyright mediation](https://www.tipo.gov.tw/tw/copyright/709.html) - The IP Office mediates copyright disputes for NT$4,000 per case; mediation is voluntary, and a court-approved settlement ends the dispute ([rules](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070020)).
+- [Code of Criminal Procedure §237](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010001) - Most copyright offences are prosecuted only on complaint, which must be filed within six months of learning who the infringer is.
+
+### Preserving evidence
+
+- [TIPO FAQ on online infringement](https://www.tipo.gov.tw/tw/tipo1/815-1213.html) - Infringing pages can change at any time; save the page yourself or have a private notary certify it.
+- [Wayback Machine Save Page Now](https://web.archive.org/save) - Free third-party snapshot of a public page. The Internet Archive also [provides affidavits](https://archive.org/legal/) for court use for a fee.
+- [Court preservation of evidence](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010001) - Under Taiwan's Code of Civil Procedure §368, a court can preserve evidence at risk of being lost, before or during a lawsuit.
 
 ## Licensing and selling
 
-<!-- section5 -->
+Last verified: 2026-09-27.
+
+### Licences for your own work
+
+- [Creative Commons licence chooser](https://creativecommons.org/chooser/) - Pick a licence by answering questions on attribution, commercial use and adaptations.
+- [CC licences and generative AI](https://creativecommons.org/2023/08/18/understanding-cc-licenses-and-generative-ai/) - You can apply CC licences to works made with AI tools; CC suggests CC0 where there is little human creativity. See also CC's [2026 guidance](https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/).
+- [CC0](https://creativecommons.org/public-domain/cc0/) - Waive all rights as far as the law allows.
+
+### Model licences and outputs
+
+- [Responsible AI Licenses (RAIL)](https://www.licenses.ai/) - The behavioural-use licence family behind many image models; use restrictions pass on to derivatives.
+- [FLUX.1 dev Non-Commercial License](https://github.com/black-forest-labs/flux/blob/main/model_licenses/LICENSE-FLUX1-dev) - The model is non-commercial, but outputs may be used commercially, except to train competing models.
+- [Llama 4 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama4/LICENSE) - Claims no ownership of outputs; a distributed model trained on Llama outputs must start its name with "Llama".
+
+### Transferring rights
+
+- [17 U.S.C. §204(a)](https://www.law.cornell.edu/uscode/text/17/204) - In the US, a transfer of copyright is valid only in a signed writing; transfers can be [recorded](https://www.copyright.gov/recordation/) with the Copyright Office.
+- [Taiwan Copyright Act §36–§37](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0070017&flno=36) - Anything unclear in an assignment or licence is presumed not transferred; an exclusive licensee can sue in its own name.
+- [TIPO contract templates](https://www.tipo.gov.tw/tw/copyright/719-19274.html) - Free Taiwanese templates, including commissioned work and licensing a design for merchandise.
+
+### Where AI work can be sold
+
+- [Adobe Stock](https://helpx.adobe.com/stock/contributor/help/generative-ai-content.html) - Accepts AI-generated content if labelled; prompts may not name artists, real people or fictional characters.
+- [Shutterstock](https://submit.shutterstock.com/help/en/articles/10594622-content-policy-updates-ai-generated-content) - Does not accept AI-generated uploads. [Getty Images](https://contributors.gettyimages.com/article/9146), [iStock](https://www.istockphoto.com/legal/ai-free-imagery-policy) and [Pond5](https://www.pond5.com/help/en/articles/10086182-does-pond5-allow-ai-generated-content-for-licensing) also refuse them.
+- [Etsy](https://www.etsy.com/seller-handbook/article/1275449912004) - Allows seller-prompted AI creations if the listing discloses AI use.
+- [Bandcamp](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/) - Since January 2026, music generated wholly or substantially by AI is not permitted.
+
+### Music distribution and streaming
+
+- [DistroKid](https://support.distrokid.com/hc/en-us/articles/41182362733715-Can-I-Upload-Music-Made-With-AI-Tools-to-DistroKid) - Accepts music made with AI tools if you hold all rights; asks for [AI credits](https://support.distrokid.com/hc/en-us/articles/50784235803411-What-Are-AI-Credits) shown on Spotify, Apple Music and YouTube.
+- [TuneCore](https://support.tunecore.com/hc/en-us/articles/46914166185236-TuneCore-s-GenAI-Music-Content-Framework) - Distributes AI music only from models trained on fully licensed data.
+- [CD Baby](https://support.cdbaby.com/hc/en-us/articles/23638450756237-Understanding-Production-Sounds) - Accepts no AI-generated content, even partly AI.
+- [Spotify AI protections](https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/) - Impersonation needs the artist's authorisation, a spam filter targets mass uploads, and AI use is disclosed in credits; an [AI Persona badge](https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/) marks AI artist identities.
+- [Deezer AI tagging](https://newsroom-deezer.com/2025/06/deezer-launches-worlds-first-ai-tagging-system-for-music-streaming/) - Tags albums with fully AI-generated tracks and leaves them out of recommendations.
 
 ## Labelling and transparency rules
 
-<!-- section6 -->
+Last verified: 2026-09-27.
+
+Most rules put the labelling duty on AI providers and platforms, but several also reach the person who publishes the content.
+
+### Laws
+
+- [EU AI Act, Article 50](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50) - Applies from 2 August 2026: providers must mark AI output in a machine-readable way, and deepfakes must be disclosed, with lighter duties for evidently artistic or satirical work. Systems already on the market have until 2 December 2026 for the marking, under the [Digital Omnibus](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng).
+- [EU Code of Practice on AI-generated content](https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content) - Voluntary code on how to mark and label AI output, with Commission [guidelines](https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations) and free [EU labelling icons](https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content).
+- [China: Measures for Labelling AI-Generated Content](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm) - In force since 1 September 2025 with the mandatory standard GB 45438-2025: visible and metadata labels, and users who publish AI content must declare it and may not remove labels.
+- [South Korea: AI transparency guidelines](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1215) - Under the AI Basic Act, in force since January 2026, AI output must be labelled and realistic deepfakes clearly marked.
+- [California AI Transparency Act (AB 853)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB853) - Operative 2 August 2026: large AI providers must offer visible and hidden disclosures for AI images, video and audio, and a free detection tool. Political ads have [their own disclosure rule](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2355).
+- [Taiwan AI Basic Act (人工智慧基本法)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093) - In force since January 2026; sets a transparency principle but no direct labelling duty for creators. Separately, the [Fraud Crime Hazard Prevention Act, Art. 31](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080226) makes large ad platforms show when an ad uses deepfakes or AI-generated images of a person.
+- [FTC Operation AI Comply](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes) - "There is no AI exemption from the laws on the books": deceptive claims about AI products are pursued like any other.
+
+### Platform rules
+
+- [YouTube: altered or synthetic content](https://support.google.com/youtube/answer/14328491?hl=en) - Disclose realistic content that is meaningfully altered or synthetic; clearly unrealistic content and minor edits are exempt.
+- [TikTok: AI-generated content](https://www.tiktok.com/support/faq_detail?id=7636670084747893268) - Label realistic AI content; content with C2PA credentials is labelled automatically and the label cannot be removed.
+- [Meta: labelling AI content](https://transparency.meta.com/governance/tracking-impact/labeling-ai-content/) - "AI info" labels on Facebook, Instagram and Threads, from detected signals or your own disclosure.
+- [Amazon KDP content guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) - Disclose AI-generated text, images and translations, even after substantial edits; AI-assisted editing need not be disclosed.
+- [Steam content survey](https://partner.steamgames.com/doc/gettingstarted/contentsurvey) - Developers must describe pre-generated and live-generated AI content in their games.
 
 ## Further reading
 
-<!-- section7 -->
+Last verified: 2026-09-27.
+
+### Reports
+
+- [WIPO: IP and Frontier Technologies](https://www.wipo.int/en/web/frontier-technologies) - WIPO's hub for its conversations on AI and IP, with a short [generative AI factsheet](https://www.wipo.int/export/sites/www/about-ip/en/frontier_technologies/pdf/generative-ai-factsheet.pdf).
+- [EUIPO: Generative AI from a copyright perspective](https://www.euipo.europa.eu/en/publications/genai-from-a-copyright-perspective-2025) - 2025 study on training data, opt-outs, outputs and effects on creators under EU law.
+- [OECD: IP issues in AI trained on scraped data](https://www.oecd.org/en/publications/intellectual-property-issues-in-artificial-intelligence-trained-on-scraped-data_d5241a23-en.html) - 2025 policy paper on scraping and its copyright, database and trade-secret issues.
+
+### Case trackers
+
+- [BakerHostetler AI case tracker](https://www.bakerlaw.com/services/artificial-intelligence-ai/case-tracker-artificial-intelligence-copyrights-and-class-actions/) - Status and key filings in US generative-AI copyright cases.
+- [Chat GPT Is Eating the World](https://chatgptiseatingtheworld.com/aicopyrightcasetracker/) - Independent tracker of copyright suits against AI companies, with a US case map.
+- [Database of AI Litigation](https://blogs.gwu.edu/law-eti/ai-litigation-database/) - GW Law's searchable database of AI litigation in general.
+
+### Papers
+
+- [Authors and Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3233885) - Ginsburg and Budiardjo on whether the programmer, the user or no one is the author of machine-generated output.
+- [How Generative AI Turns Copyright Upside Down](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517702) - Lemley on why generative AI strains substantial similarity and shifts creative value to prompts.
+- [Talkin' 'Bout AI Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4523551) - Lee, Cooper and Grimmelmann map each stage of the AI supply chain onto copyright doctrine.
+- [Copyright Safety for Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438593) - Sag on training as non-expressive use and the risk of memorisation.
+
+### Creator organisations
+
+- [Authors Guild on AI](https://authorsguild.org/advocacy/artificial-intelligence/) - Best practices, model contract clauses and a [Human Authored](https://authorsguild.org/human-authored/) certification.
+- [Society of Authors: practical steps](https://societyofauthors.org/2025/06/26/artificial-intelligence-practical-steps-for-members/) - Practical advice for authors on protecting their work from AI use.
+- [Musicians' Union: AI and the music industry](https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry) - Campaign hub on consent, credit and pay for musicians.
+- [Concept Art Association advocacy](https://www.conceptartassociation.com/advocacy) - Sample contract language to keep commissioned art out of AI datasets.
+- [Taiwan Ministry of Culture generative AI guideline](https://www.moc.gov.tw/News.aspx?n=9149&sms=16053) - Non-binding guidance for artists on training data, style imitation and copyright risk.
 
 ## Contributing
 
