@@ -73,6 +73,7 @@ Copyright arises on creation and there is no registration. The IP Office has con
 
 - [Copyright Act (著作權法)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017) - Article 3 defines the author as the person who creates the work; Article 10 grants copyright on completion.
 - [TIPO interpretation, 2018](https://www.tipo.gov.tw/tw/copyright/692-15651.html) - AI is not a person, so autonomous output is in principle not a work.
+- [TIPO letter 11252800520, June 2023](https://vocus.cc/article/64c08347fd89780001ae08b9) - Training an AI model on protected works is reproduction and needs authorisation unless fair use applies; output from a bare prompt is not protected, and output that reproduces a training work can infringe when used commercially. (The official page is offline; the link is a law firm's reproduction of the full text.)
 - [TIPO letter 11460005900, April 2025](https://www.tipo.gov.tw/tw/copyright/692-33518.html) - Work made with AI as a tool and the person's own creative input is protected and owned by that person; output AI completes on its own is not a work.
 - [TIPO interpretation, May 2025](https://www.tipo.gov.tw/tw/copyright/692-34252.html) - Restates the two scenarios and warns about commercial use of infringing output.
 - [TIPO interpretation, October 2025](https://www.tipo.gov.tw/tw/copyright/692-63403.html) - Whether a human's creative input is enough is for the courts to decide case by case.
