@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [Is AI-generated work protected?](#is-ai-generated-work-protected)
+- [Copyright status by country](#copyright-status-by-country)
 - [Who owns the output: AI tool terms](#who-owns-the-output-ai-tool-terms)
 - [Proving you made it first](#proving-you-made-it-first)
 - [When someone copies your work](#when-someone-copies-your-work)
@@ -16,11 +16,11 @@
 - [Labelling and transparency rules](#labelling-and-transparency-rules)
 - [Further reading](#further-reading)
 
-## Is AI-generated work protected?
+## Copyright status by country
 
 Most copyright systems protect only what a human author contributed. What counts as enough human contribution — prompts, selection, editing, arrangement — is decided country by country.
 
-*Last verified: 2026-09-27.*
+_Last verified: 2026-09-27._
 
 ### United States
 
@@ -80,26 +80,64 @@ Copyright arises on creation and there is no registration. The IP Office has con
 
 A tool's terms decide what you may do with the output as between you and the company. They cannot make output copyrightable where the law says it is not (see the section above).
 
-<!-- section2 -->
+_Last verified: 2026-09-27. Terms change often; check the date next to each entry against the current page._
+
+| Tool          | Who owns the output             | Free plan                                                | Paid plan                                              |
+| ------------- | ------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
+| Suno          | Paid: assigned to you           | Personal, non-commercial only                            | Commercial, only for permitted downloads               |
+| Udio          | Udio and its licensors          | No commercial use, no downloads                          | Same                                                   |
+| ElevenLabs    | You                             | Non-commercial only                                      | Commercial; music has extra limits                     |
+| Midjourney    | You, as far as the law allows   | —                                                        | Companies over US$1M revenue need Pro or Mega          |
+| Leonardo.ai   | Paid: you. **Free: Leonardo**   | Leonardo owns the output                                 | You own it and can keep it private                     |
+| Runway        | Runway claims none              | Commercial use not restricted                            | Same                                                   |
+| Adobe Firefly | You                             | —                                                        | IP indemnity only under qualifying contracts           |
+| OpenAI        | You (rights assigned "if any")  | Same as paid                                             | Same as free                                           |
+| Google Gemini | Google claims none              | Unpaid API data may be used to improve Google's products | Paid API data is not used to improve Google's products |
+| Stability AI  | You                             | Free under US$1M annual revenue                          | Enterprise licence above that                          |
+| Civitai       | Depends on each model's licence | Per-model permissions                                    | Per-model permissions                                  |
+
+### Music
+
+- [Suno Terms](https://suno.com/terms) - Pro and Premier users are assigned Suno's rights and may use output commercially, but only for files obtained through permitted downloads; free and Basic use is personal and non-commercial. Suno promises no copyright will exist in the output and may add a tier watermark. (Effective 2026-09-03; changes followed the [Warner Music settlement](https://www.wmg.com/news/warner-music-group-and-suno-forge-groundbreaking-partnership).)
+- [Udio Terms](https://www.udio.com/terms-of-service) - Udio and its licensors own all output; downloads, commercial use and posting to streaming platforms are prohibited while Udio moves to a licensed platform after its [Universal Music settlement](https://www.universalmusic.com/universal-music-group-and-udio-announce-udios-first-strategic-agreements-for-new-licensed-ai-music-creation-platform/). (Revised 2025-11-12.)
+- [ElevenLabs Terms](https://elevenlabs.io/terms-of-use) - You keep your rights in output; free users are limited to non-commercial use. Music has [its own terms](https://elevenlabs.io/music-terms) banning prompts with artist names, song titles or substantial lyrics, and output is not exclusive. (Updated 2026-03-31; music 2026-05-26.)
+
+### Image and video
+
+- [Midjourney Terms](https://docs.midjourney.com/hc/en-us/articles/32083055291277-Terms-of-Service) - You own your images "to the fullest extent possible under applicable law", and keep them after cancelling; companies with over US$1M revenue must use Pro or Mega. Images are public and remixable by default unless you use Stealth mode. (Effective 2026-05-27.)
+- [Leonardo.ai Terms](https://leonardo.ai/terms-of-service) - Paid users own their output; on free plans the output belongs to Leonardo (§8.7). Public content may be used to train Leonardo's models. (Updated 2026-01-19.)
+- [Runway Terms](https://runwayml.com/terms-of-use) - Runway claims no ownership and does not restrict commercial use, but takes a perpetual licence to use inputs and outputs to train its models. (Updated 2026-09-15.)
+- [Adobe General Terms](https://www.adobe.com/legal/terms.html) - You keep ownership of what you create. The [Firefly IP indemnity](https://helpx.adobe.com/legal/product-descriptions/adobe-firefly.html) applies only to customers whose contract links to it, and excludes partner models and beta features. Removing Content Credentials is prohibited.
+
+### General-purpose models
+
+- [OpenAI Terms of Use](https://openai.com/policies/row-terms-of-use/) - You own the output and OpenAI assigns you its rights "if any"; similar output may go to other users, and output may not be used to build competing models. (Effective 2026-01-01.)
+- [Google Terms of Service](https://policies.google.com/terms) - Google "won't claim ownership" of generated content; the [Gemini API terms](https://ai.google.dev/gemini-api/terms) add that Google may generate the same or similar content for others. (Effective 2026-07-30 and 2026-03-23.)
+
+### Open models and model hubs
+
+- [Stability AI Community License](https://stability.ai/community-license-agreement) - You own outputs; the free licence ends once you pass US$1M annual revenue, and distributions must show "Powered by Stability AI". (Updated 2024-07-05.)
+- [CreativeML Open RAIL-M](https://github.com/CompVis/stable-diffusion/blob/main/LICENSE) - The licence behind many Stable Diffusion 1.x models: the licensor claims no rights in your output, but its use restrictions pass on to anyone you share the model with.
+- [Civitai Terms](https://civitai.com/content/tos) - Rights in output follow each model's licence; the permission icons on a model page (commercial use, credit, merges) are the creator's own declaration and cannot grant more than the base model's licence. (Modified 2026-08-26.)
 
 ## Proving you made it first
 
 If a dispute comes, the first question is often simply who had the work first. These methods record that a file existed at a certain time. None of them, on its own, proves who created it or who owns the rights.
 
-*Last verified: 2026-09-27.*
+_Last verified: 2026-09-27._
 
-| Method | Shows the file existed by a date | Shows who made it | Cost | Checkable without the provider |
-|---|---|---|---|---|
-| Notarial authentication (Taiwan 認證) | Yes, what the notary saw | No | About NT$500 (statutory base) | Yes, public record |
-| Taiwan certified letter (存證信函) | Yes, text and mailing date | No | NT$50 + NT$30 per extra page, plus postage | Post office keeps its copy 3 years |
-| RFC 3161 timestamp (e.g. FreeTSA) | Yes | No | Free (FreeTSA) | Yes, with OpenSSL |
-| eIDAS qualified timestamp | Yes, with a legal presumption in the EU | No | Varies by provider | Yes |
-| OpenTimestamps | Yes, anchored in Bitcoin | No | Free | Yes |
-| Commercial blockchain services | Yes | No | Paid plans, or on quote | Depends on export |
-| OpenStela | Yes, anchored nightly on Arbitrum One | No | Free to register | Yes, with the Merkle proof in the Proof Pack |
-| C2PA / Content Credentials | Records a signed edit history | Names the signer, often the tool | Free standard | Yes, but metadata can be stripped |
-| US copyright registration | Effective date of registration | Prima facie evidence, if filed within 5 years of publication | US$45–125 | Yes, public record |
-| Emailing yourself / cloud history | Weakly | No | Free | No |
+| Method                            | Shows the file existed by a date        | Shows who made it                                            | Cost                                       | Checkable without the provider               |
+| --------------------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | -------------------------------------------- |
+| Notarial authentication (Taiwan)  | Yes, what the notary saw                | No                                                           | About NT$500 (statutory base)              | Yes, public record                           |
+| Taiwan certified-content letter   | Yes, text and mailing date              | No                                                           | NT$50 + NT$30 per extra page, plus postage | Post office keeps its copy 3 years           |
+| RFC 3161 timestamp (e.g. FreeTSA) | Yes                                     | No                                                           | Free (FreeTSA)                             | Yes, with OpenSSL                            |
+| eIDAS qualified timestamp         | Yes, with a legal presumption in the EU | No                                                           | Varies by provider                         | Yes                                          |
+| OpenTimestamps                    | Yes, anchored in Bitcoin                | No                                                           | Free                                       | Yes                                          |
+| Commercial anchoring services     | Yes                                     | No                                                           | Paid plans, or on quote                    | Depends on export                            |
+| OpenStela                         | Yes, anchored nightly on Arbitrum One   | No                                                           | Free to register                           | Yes, with the Merkle proof in the Proof Pack |
+| C2PA / Content Credentials        | Records a signed edit history           | Names the signer, often the tool                             | Free standard                              | Yes, but metadata can be stripped            |
+| US copyright registration         | Effective date of registration          | Prima facie evidence, if filed within 5 years of publication | US$45–125                                  | Yes, public record                           |
+| Emailing yourself / cloud history | Weakly                                  | No                                                           | Free                                       | No                                           |
 
 ### Official records
 
@@ -112,14 +150,14 @@ If a dispute comes, the first question is often simply who had the work first. T
 
 - [RFC 3161](https://www.rfc-editor.org/rfc/rfc3161) - The standard for trusted timestamps: a Time Stamping Authority signs a token binding your file's hash to a time. Only the hash leaves your computer.
 - [FreeTSA](https://freetsa.org/index_en.php) - A free RFC 3161 authority usable with OpenSSL. Keep the original bytes: re-exporting a file changes its hash.
-- [eIDAS Article 41](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910) - In the EU, only a *qualified* electronic timestamp carries a presumption of accurate date and data integrity; other timestamps are still admissible as evidence.
+- [eIDAS Article 41](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910) - In the EU, only a _qualified_ electronic timestamp carries a presumption of accurate date and data integrity; other timestamps are still admissible as evidence.
 - [OpenTimestamps](https://opentimestamps.org/) - Free, no account, anchored in Bitcoin. Confirmation takes a few hours; run `ots upgrade` so the proof can be checked without the calendar servers.
 
 ### Blockchain registries
 
 - [Bernstein](https://www.bernstein.io/) - Web app for registering designs and drafts with Bitcoin anchoring and qualified timestamps; paid plans. Its marketing speaks of ownership, but a timestamp proves existence, not ownership.
 - [OriginStamp](https://originstamp.com/en/timestamp) - Blockchain timestamping for businesses via API; pricing on request.
-- [OpenStela](https://openstela.io) - Free registry for AI characters and works; fingerprints are anchored nightly on Arbitrum One and the downloadable Proof Pack carries the Merkle proof. Its [terms](https://openstela.io/terms) state it is not proof of authorship or ownership. *Disclosure: this list is maintained by OpenStela.*
+- [OpenStela](https://openstela.io) - Free registry for AI characters and works; fingerprints are anchored nightly on Arbitrum One and the downloadable Proof Pack carries the Merkle proof. Its [terms](https://openstela.io/terms) state it is not proof of authorship or ownership. _Disclosure: this list is maintained by OpenStela._
 
 ### Provenance metadata
 
@@ -149,9 +187,3 @@ If a dispute comes, the first question is often simply who had the work first. T
 ## Contributing
 
 Corrections and additions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Every entry needs a source.
-
-## License
-
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE)
-
-Maintained by [OpenStela](https://openstela.io). Licensed under [CC BY 4.0](LICENSE): you may share and adapt this list, with attribution.
