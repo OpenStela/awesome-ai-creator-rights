@@ -73,6 +73,7 @@ Copyright arises on creation and there is no registration. The IP Office has con
 
 - [Copyright Act (著作權法)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017) - Article 3 defines the author as the person who creates the work; Article 10 grants copyright on completion.
 - [TIPO interpretation, 2018](https://www.tipo.gov.tw/tw/copyright/692-15651.html) - AI is not a person, so autonomous output is in principle not a work.
+- [TIPO letter 11460005900, April 2025](https://www.tipo.gov.tw/tw/copyright/692-33518.html) - Work made with AI as a tool and the person's own creative input is protected and owned by that person; output AI completes on its own is not a work.
 - [TIPO interpretation, May 2025](https://www.tipo.gov.tw/tw/copyright/692-34252.html) - Restates the two scenarios and warns about commercial use of infringing output.
 - [TIPO interpretation, October 2025](https://www.tipo.gov.tw/tw/copyright/692-63403.html) - Whether a human's creative input is enough is for the courts to decide case by case.
 
@@ -128,7 +129,7 @@ Last verified: 2026-09-27.
 
 | Method                            | Shows the file existed by a date        | Shows who made it                                            | Cost                                       | Checkable without the provider               |
 | --------------------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | -------------------------------------------- |
-| Notarial authentication (Taiwan)  | Yes, what the notary saw                | No                                                           | About NT$500 (statutory base)              | Yes, public record                           |
+| Notarial authentication (Taiwan)  | Yes, what the notary saw                | No                                                           | About NT$500                               | Yes, public record                           |
 | Taiwan certified-content letter   | Yes, text and mailing date              | No                                                           | NT$50 + NT$30 per extra page, plus postage | Post office keeps its copy 3 years           |
 | RFC 3161 timestamp (e.g. FreeTSA) | Yes                                     | No                                                           | Free (FreeTSA)                             | Yes, with OpenSSL                            |
 | eIDAS qualified timestamp         | Yes, with a legal presumption in the EU | No                                                           | Varies by provider                         | Yes                                          |
@@ -141,7 +142,7 @@ Last verified: 2026-09-27.
 
 ### Official records
 
-- [Taiwan Notary Act (公證法)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010010) - A court or private notary can authenticate a signed declaration with printouts or file hashes; authenticated documents are presumed genuine ([Code of Civil Procedure §358](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0010001&flno=358)). It records what the notary saw, not who created the work.
+- [Taiwan Notary Act (公證法)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010010) - A court or private notary can authenticate a signed declaration with printouts or file hashes; authenticated documents are presumed genuine ([Code of Civil Procedure §358](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0010001&flno=358)). A private notary's document made in performing notarial duties is deemed a public document (Notary Act §36). It records what the notary saw, not who created the work.
 - [Taiwan certified-content letter (存證信函)](https://www.post.gov.tw/post/internet/Customer_service/index.jsp?ID=1610075122269) - Chunghwa Post keeps an identical copy and certifies only that the copies match and the mailing date. Text only, Chinese form, and the post office keeps its copy for three years.
 - [US copyright registration](https://www.copyright.gov/registration/) - Registration within five years of publication is prima facie evidence ([17 U.S.C. §410(c)](https://www.law.cornell.edu/uscode/text/17/410)). AI-generated material beyond de minimis must be disclosed and excluded ([88 FR 16190](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence)); fees are [US$45–125](https://www.copyright.gov/about/fees.html).
 - [No registration in Taiwan (TIPO)](https://www.tipo.gov.tw/tw/copyright/692-16449.html) - Taiwan abolished copyright registration in 1998; the author bears the burden of proof and is advised to keep records of the creation process ([TIPO on proof](https://www.tipo.gov.tw/tw/copyright/696-21213.html)).
